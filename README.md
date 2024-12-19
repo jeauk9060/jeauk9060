@@ -16,7 +16,7 @@
   <div align="center">
     <h2>나에게 연락하려면 다음을 사용하세요:</h2>
     <p>
-      <a href="dugyeon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+      <a href="mailto:dugyeon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
       <a href="https://instagram.com/wodnr_h" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
     </p>
   </div>
@@ -27,15 +27,15 @@
     <h2>이 계정에 관하여</h2>
     <p>
       <a href="https://github.com/1999AZZAR" target="_blank"><img src="https://komarev.com/ghpvc/?username=1999AZZAR&style=for-the-badge&label=PROFILE+VIEWS" alt="조회수"></a>
-      <a href="https://1999azzar.github.io/1999AZZAR/"><img src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https://1999azzar.github.io/1999AZZAR/" alt="웹사이트 상태"></a>
+      <a href="https://1999azzar.github.io/1999AZZAR/" target="_blank"><img src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https://1999azzar.github.io/1999AZZAR/" alt="웹사이트 상태"></a>
     </p>
     <p>
       <a href="https://www.codefactor.io/repository/github/1999AZZAR/1999AZZAR/overview/main" target="_blank"><img src="https://www.codefactor.io/repository/github/1999AZZAR/1999AZZAR/badge/main" alt="CodeFactor"></a>
-      <a href="https://github.com/1999AZZAR"><img src="https://github.com/1999AZZAR/1999AZZAR/actions/workflows/pages/pages-build-deployment/badge.svg" alt="페이지 생성 상태"></a>
+      <a href="https://github.com/1999AZZAR" target="_blank"><img src="https://github.com/1999AZZAR/1999AZZAR/actions/workflows/pages/pages-build-deployment/badge.svg" alt="페이지 생성 상태"></a>
     </p>
     <p>
       <a href="https://github.com/1999AZZAR" target="_blank"><img src="https://img.shields.io/github/license/1999AZZAR/1999AZZAR?color=purple&style=for-the-badge" alt="라이센스"></a>
-      <a href="https://github.com/1999AZZAR"><img src="https://forthebadge.com/images/badges/works-on-my-machine.svg" alt="작동 여부"></a>
+      <a href="https://github.com/1999AZZAR" target="_blank"><img src="https://forthebadge.com/images/badges/works-on-my-machine.svg" alt="작동 여부"></a>
     </p>
   </div>
 </details>
