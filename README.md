@@ -1,10 +1,10 @@
 <div align="center">
   <h1>
-    안녕하세요👋, 저는 황재욱입니다.
+    안녕하세요 <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif" alt="waving hand">, 저는 황재욱입니다.
   </h1>
   <h4>
-    현재는 신입 개발자로 일하고 있습니다. 
-    <a href="https://github.com/jeauk9060" target="_blank">제작중</a>을 확인해보세요.
+    신입 개발자로 회사에서 일하고 있습니다. 
+    <a href="https://github.com/jeauk9060" target="_blank">깃허브 프로필</a>을 확인해보세요.
   </h4>
   <a href="https://github.com/jeauk9060">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="50">
@@ -30,12 +30,8 @@
       <a href="https://github.com/jeauk9060" target="_blank"><img src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https://github.com/jeauk9060" alt="웹사이트 상태"></a>
     </p>
     <p>
-      <a href="https://www.codefactor.io/repository/github/jeauk9060" target="_blank"><img src="https://www.codefactor.io/repository/github/1999AZZAR/1999AZZAR/badge/main" alt="CodeFactor"></a>
-      <a href="https://github.com/jeauk9060" target="_blank"><img src="https://github.com/jeauk9060/jeauk9060/actions/workflows/pages/pages-build-deployment/badge.svg" alt="페이지 생성 상태"></a>
-    </p>
-    <p>
-      <a href="https://github.com/jeauk9060" target="_blank"><img src="https://img.shields.io/github/license/jeauk9060/jeauk9060?color=purple&style=for-the-badge" alt="라이센스"></a>
-      <a href="https://github.com/jeauk9060" target="_blank"><img src="https://forthebadge.com/images/badges/works-on-my-machine.svg" alt="작동 여부"></a>
+      <a href="https://github.com/jeauk9060" target="_blank"><img src="https://img.shields.io/badge/Code-Quality-green?style=for-the-badge&logo=github" alt="Code Quality"></a>
+      <a href="https://github.com/jeauk9060" target="_blank"><img src="https://img.shields.io/badge/Recent-Commits-blue?style=for-the-badge&logo=git" alt="최근 커밋"></a>
     </p>
   </div>
 </details>
