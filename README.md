@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    안녕하세요 <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif" alt="waving hand">, 저는 황재욱입니다.
+    안녕하세요👋, 저는 황재욱입니다.
   </h1>
   <h4>
     신입 개발자로 회사에서 일하고 있습니다. 
