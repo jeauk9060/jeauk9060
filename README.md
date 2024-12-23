@@ -4,7 +4,7 @@
   </h1>
   <h4>
     신입 개발자로 회사에서 일하고 있습니다. 
-    <a href="https://github.com/jeauk9060" target="_blank">깃허브 프로필</a>을 확인해보세요.
+    <a href="https://github.com/jeauk9060" target="_blank">제작중</a>을 확인해보세요.
   </h4>
   <a href="https://github.com/jeauk9060">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="50">
